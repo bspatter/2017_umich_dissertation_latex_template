@@ -1,0 +1,10 @@
+ \acro{LOA}{List of Acronyms}
+ \acro{CFD}{Computational Fluid Dynamics}
+ \acro{WENO}{Weighted Essentially non-oscillatory}
+ \acro{GSRA}{Good Substitute for a Real Appointment}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "./main"
+%%% End:

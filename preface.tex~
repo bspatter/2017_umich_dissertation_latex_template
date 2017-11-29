@@ -1,0 +1,16 @@
+\centerline{\large\bf PREFACE}
+\vspace*{1in}
+This dissertation presents work in which computation and modeling are
+used to make advancements in two separate and distinct areas of
+acoustics: ultrasound bioeffects modeling (which serves to motivated
+the bulk of this thesis) and acoustic transmission loss uncertainty
+quantification in uncertain ocean environments. While these works are
+united in the use of computation and broader field of acoustics, the
+underlying motivation and relevant background is separate. Hence this
+document is split into two separate and distinct parts along these
+lines. A summary of relevant background information, work performed,
+and conclusions in each area will be presented separately.
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

@@ -1,0 +1,44 @@
+% Dedication
+
+@article{AIUM_4_2000,
+abstract = {Several animal models have exhibited thresholds for petechial hemorrhage in lung within the current output of diagnostic ultrasound systems. In addition, thresholds for damage in the mouse intestine due to diagnostic pulses of ultrasound have been explored. The implications for human lung and intestinal exposure to clinical diagnostic ultrasound have not yet been determined. In this section, the data supporting the thresholds of petechial hemorrhage in these organ systems and the morphological observations will be reviewed. The potential mechanical mechanisms of damage to these organs due to diagnostic ultrasound also will be reviewed. Special attention will be given to the occurrence of inertial cavitation both in vitro and in vivo. The effects of ultrasound parameters, age, and species on the threshold for damage in animal models will be explored.},
+file = {:hdd/Users/Brandon/Dropbox/Research/Literature/AIUSM-PT4,2000.pdf:pdf},
+journal = {Journal of Ultrasound in Medicine},
+mendeley-groups = {Lung},
+number = {2},
+pages = {97--108,154--168},
+title = {{Section 4--bioeffects in tissues with gas bodies. American Institute of Ultrasound in Medicine.}},
+url = {http://www.jultrasoundmed.org/content/19/2/97.abstract http://cat.inist.fr/?aModele=afficheN\&cpsidt=1448770},
+volume = {19},
+year = {2000}
+}
+
+
+@article{Child1990,
+abstract = {Motivated by a recent finding that threshold pressures for hemorrhage in mouse lung exposed to the fields of an electrohydraulic lithotripter were less than 2 MPa, we extended the exposures to pulsed ultrasound. Sharply defined thresholds of the order of 1 MPa were found with 10 $\mu$s length pulses and roughly twice that value for 1 $\mu$s pulses. The thresholds at 4 MHz are greater than at 1 MHz. The thresholds are comparable for focused and unfocused fields. As would be expected for a cavitation-like phenomenon, temporal average intensity is a very poor predictor of this effect. In the extreme case, lesions were found at temporal average intensities on the order of I mW/cm2.},
+author = {Child, S.Z. Z and Hartman, C.L. L and Schery, L.A. and Carstensen, E.L.},
+file = {:hdd/Users/Brandon/Dropbox/Research/Literature/Child,1990.pdf:pdf},
+journal = {Ultrasound in Medicine \& Biology},
+keywords = {Acoustics,Lung hemorrhage,Mouse lung,Pulsed ultrasound,Ultrasonic toxicity,Ultrasound bioeffects,acoustics,lung,mouse lung,pulsed ultrasound,ultrasonic toxicity,ultrasound bioeffects},
+mendeley-groups = {Lung},
+number = {8},
+pages = {817--825},
+title = {{Lung damage from exposure to pulsed ultrasound}},
+url = {http://www.sciencedirect.com/science/article/pii/030156299090046F},
+volume = {16},
+year = {1990}
+}
+
+
+
+@article{bathe2002neutrophil,
+  title={Neutrophil transit times through pulmonary capillaries: the effects of capillary geometry and fMLP-stimulation},
+  author={Bathe, Mark and Shirai, Atsushi and Doerschuk, Claire M and Kamm, Roger D},
+  journal={Biophysical journal},
+  volume={83},
+  number={4},
+  pages={1917--1933},
+  year={2002},
+  publisher={Elsevier}
+}
+

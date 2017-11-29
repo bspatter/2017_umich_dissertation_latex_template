@@ -1,0 +1,74 @@
+\acresetall%
+\setlength\parindent{20pt}%
+This dissertation presents work in which computational modeling is
+used to advance two areas of interest in modern acoustics. First, we
+develop computational models to study the poorly understood physics
+underlying \ac{CEUS} bioeffects and \ac{DUS}-induced lung
+hemorrhage. A better understanding of these problems is critical to
+the development of science-based safety guidelines. Because inertial
+cavitation is thought to cause \ac{CEUS} bioeffects, we model a
+spherical bubble in viscoelastic soft tissue, driven by
+experimentally-measured ultrasound waveforms ($1.5-7.5$ MHz), with
+known bioeffects thresholds. Bioeffects thresholds were compared with
+calculated cavitation metrics and experimentally determined bioeffects
+thresholds were found greater than accepted thresholds for inertial
+cavitation in water, and that the maximum dimensionless bubble radius
+$R_{max}/R_0$ correlated strongly with bioeffects thresholds as a
+function of frequency. Separately, we investigate \ac{DUS}-induced
+lung hemorrhage and model an acoustic wave in soft tissue (water)
+traveling toward an alveolus (air) with a perturbed surface. First, a
+trapezoidal wave with ultrasonically relevant properties ($5.0-12.5$
+MPa pressures amplitudes, $1.3-6.0~\mu$s wave durations), drives the
+interface. We showed that acoustic waves may be capable of depositing
+sufficient baroclinic vorticity to drive significant interface
+perturbation growth, long after the wave has passed. This growth
+scaled with the circulation density (i.e., the circulation per unit
+length of the interface) and exhibited power-law behavior at late
+time. To approximate \ac{US}-induced stresses and strains on alveoli,
+we subjected interfaces of varying initial perturbation amplitude to
+$1.5$ MHz ultrasound pulses with peak amplitudes from $1-5$ MPa
+and observed interfacial viscous stress amplitudes up to approximately
+$60$ Pa and interfacial strains up to 38\%. While the viscous
+stresses appeared beneath capillary failure thresholds, the calculated
+strain was sometimes greater than expected failure thresholds for
+alveolar epithelium. Since this work considers only a single pulse,
+and the vorticity driving the deformation is expected to accumulate
+over multiple pulses, we conclude that vorticity-induced deformation
+is worthy of further investigation.
+
+Finally, we develop \textit{area statistics}, a computationally
+efficient method for estimating \acp{PDF} of acoustic \ac{TL} in
+uncertain ocean environments. Such \acp{PDF} of \ac{TL} are useful for
+real-time Naval applications but impractically expensive to obtain
+via traditional computational methods. This work describes how to
+approximate the \ac{PDF} of \ac{TL} at a point of interest using
+\ac{TL} statistics from the field surrounding the point of
+interest. The idea is that local \ac{TL} variations due to
+environmental fluctuations are represented by spatial variations in
+\ac{TL} in single baseline \ac{TL} field calculation. The baseline
+calculation used the most probable values for uncertain parameters
+describing the sound speed profile, bathymetry, and geoacoustic
+bottom-layer properties. \textit{Area statistics}-generated \acp{PDF}
+were compared with 2000-sample Monte Carlo-generated \acp{PDF} via the
+$L_1$ error, in ten ocean environments with varying properties and
+uncertainties, for source frequencies of 100, 200, and 300 Hz and
+depths of 91, 137, 183m. The \textit{area statistics}-generated
+\acp{PDF} had an $L_1$ error $<$ 0.5 in 91\% of the 11,000+ test
+locations (depths from 20 m - 4.5 km, ranges from $<$1 km to $>$70
+km). \textit{Area statistics} \ac{PDF}s were generated in
+milliseconds, required $\sim10^{-6}$ times the computational effort
+required for Monte Carlo \ac{PDF}s and were thus suitable for
+real-time applications.
+
+In summary, this dissertation contains: 1.) research in which computational
+models of \ac{CEUS} and ultrasound-alveolar interaction were developed
+and used to study the physics of relevant ultrasound-induced
+bioeffects, and 2.) \emph{area statistics}, a real-time appropriate
+computational technique for estimating \acs{PDF} of \ac{TL} in
+uncertain ocean environments, is developed and tested.
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
